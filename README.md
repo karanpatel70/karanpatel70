@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **JS, Python, MongoDB**
 - 👨‍💻 All of my projects are available at https://github.com/karanpatel70
 - 📝 I regularly write articles on https://gateguide.in
-- 💬 Ask me about **DSA, OS, DBMS**
+- 💬 Ask me about **,GATE EXAM, DSA, OS, DBMS**
 - 📫 How to reach me: **karanpatel6898@gmail.com**
 - 📄 Know about my experiences: https://drive.google.com/file/d/1bPVnQ7j31HfsF2FkGx4DI7Q6Weyl6hUa/view?usp=sharing
 
