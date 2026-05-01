@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.codechef.com/users/karanpatel6889">
+  <a href="https://www.codechef.com/users/karanpatel6898">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30"/>
   </a>&nbsp;&nbsp;&nbsp;
 
