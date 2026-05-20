@@ -5,14 +5,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=karanpatel70" />
 </p>
 
-- 🔭 I’m currently working on **Resume_screener**
-- 🌱 I’m currently learning **JS, Python, MongoDB**
+- 🔭 I’m currently working on **Full Stack development**
+- 🌱 I’m currently learning **JS, Python, MongoDB,React**
 - 👨‍💻 All of my projects are available at https://github.com/karanpatel70
-- 📝 I regularly write articles on https://gateguide.in
-- 💬 Ask me about **,GATE EXAM, DSA, OS, DBMS**
+- 📝 I write articles on https://gateguide.in
+- 💬 Ask me about **GATE EXAM, DSA, OS, DBMS**
 - 📫 How to reach me: **karanpatel6898@gmail.com**
-- 📄 Know about my experiences: https://drive.google.com/file/d/1bPVnQ7j31HfsF2FkGx4DI7Q6Weyl6hUa/view?usp=sharing
-
+  
 ---
 
 <h3 align="center">Connect with me</h3>
@@ -36,12 +35,9 @@
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="40"/>
