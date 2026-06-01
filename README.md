@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning **JS, Python, MongoDB,React**
 - 👨‍💻 All of my projects are available at https://github.com/karanpatel70
 - 📝 I write articles on https://gateguide.in
-- 💬 Ask me about **GATE EXAM, DSA, OS, DBMS**
 - 📫 How to reach me: **karanpatel6898@gmail.com**
   
 ---
