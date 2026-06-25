@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working on **Full Stack development**
-- 🌱 I’m currently learning **JS, Python, MongoDB,React**
+- 🌱 I’m currently learning **MongoDB,React,Node js**
 - 👨‍💻 All of my projects are available at https://github.com/karanpatel70
 - 📝 I write articles on https://gateguide.in
 - 📫 How to reach me: **karanpatel6898@gmail.com**
