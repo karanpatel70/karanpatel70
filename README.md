@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working on **Full Stack development**
-- 🌱 I’m currently learning **Node js,Computer Systems**
+- 🌱 I’m currently learning **CP,Deep AI,FULL STACK**
 - 👨‍💻 All of my projects are available at https://github.com/karanpatel70
 - 📫 How to reach me: **karanpatel6898@gmail.com**
   
